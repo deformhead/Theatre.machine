@@ -15,7 +15,7 @@ Copy the content of [`sources/`](./sources) folder into your project.
 Import the Machine module in order to use it in your application :
 
 ```javascript
-import Machine from './my-path/machine.js';
+import {Machine} from './my-path/machine.js';
 ```
 
 ## Usage

@@ -1,4 +1,4 @@
-export default function Machine(map) {
+export function Machine(map) {
 
     let current = null;
 
