@@ -1,4 +1,4 @@
-export function Machine(map) {
+function Machine(map) {
 
     let current = null;
 
@@ -35,4 +35,9 @@ export function Machine(map) {
     this.handle = handle;
     this.initialize = initialize;
     this.state = state;
+}
+
+export {
+
+    Machine
 };
