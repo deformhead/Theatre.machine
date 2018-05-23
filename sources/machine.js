@@ -37,7 +37,5 @@ function Machine(map) {
     this.state = state;
 }
 
-export {
-
-    Machine
-};
+// exports current module as an object
+export {Machine};
