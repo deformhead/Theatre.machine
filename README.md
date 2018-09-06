@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
-# Theatre.machine
+# machine
 
 > *A [finite-state machine (FSM)](https://en.wikipedia.org/wiki/Finite-state_machine) is a mathematical model of computation. It is an abstract machine that can be in exactly one of a finite number of states at any given time. The FSM can change from one state to another in response to some external inputs.*
 
